@@ -20,11 +20,13 @@ Liri-bot is a command line application that takes user commands a returns data f
 <br />
 
 Getting Started: User must install the following Node packages in order for the application to function properly
--Dotenv: Command line: 'npm install dotenv'
--Request: Command line: 'npm install request'
--Moment: Command line: 'npm install moment'
--Fs: Command line: 'npm i fs'
--Axios: Command line: 'npm i axios'
+<ul>
+<li>Dotenv: Command line: 'npm install dotenv'</li>
+<li>Request: Command line: 'npm install request'</li>
+<li>Moment: Command line: 'npm install moment'</li>
+<li>Fs: Command line: 'npm i fs'</li>
+<li>Axios: Command line: 'npm i axios'</li>
+</ul>
 <br />
 
 Functionality:
